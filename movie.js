@@ -12,9 +12,9 @@ const movie1 = new movie();
 const movie2 = new movie("master", "7screenstudio", "PG13");
 const movie3 = new movie("varisu", "7screenstudio");
 const movie4 = new movie("beast", "sun pictures", "R");
-const movie5 = new movie("bigil", "ags entertainment", "PG­13");
+const movie5 = new movie("Casino Royale", "Eon Productions", "PG­13");
 const movie6 = [
-  new movie("singapore saloon", "Vels Film International Ltd", "PG­13"),
+  new movie("Casino Royale", "Eon Productions", "PG­13"),
   new movie("love today", "Green Studio", "R"),
   new movie("conjouring kannapan"),
   new movie("Ayalan", "7screen", "PG"),
